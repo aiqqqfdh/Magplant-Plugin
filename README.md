@@ -6,8 +6,6 @@
 *Model & tekstur 3D kustom untuk mesin Magplant dan Magplant Remote, ala Magplant 5000 di Growtopia.*
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-4CAF50?style=for-the-badge&logo=minecraft&logoColor=white)
-![Pack Format](https://img.shields.io/badge/pack__format-15-blue?style=for-the-badge)
-![PaperMC](https://img.shields.io/badge/PaperMC-1.20.1-yellow?style=for-the-badge)
 
 </div>
 
@@ -15,7 +13,7 @@
 
 ## 📖 Tentang
 
-Repo ini adalah **hosting resmi sekaligus arsip** untuk resource pack Magplant. Pack ini memuat model 3D dan tekstur kustom (`CustomModelData`) agar item **Magplant** dan **Magplant Remote** tampil sesuai di dalam game.
+Repo ini adalah **hosting tidak resmi sekaligus arsip** untuk resource pack Magplant. Pack ini memuat model 3D dan tekstur kustom (`CustomModelData`) agar item **Magplant** dan **Magplant Remote** tampil sesuai di dalam game.
 
 Tanpa pack ini plugin tetap jalan, tapi Magplant tampil sebagai Lodestone vanilla dan Remote sebagai Ender Eye biasa, dan item yang melayang di tengah Magplant tertutup badan bloknya.
 
