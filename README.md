@@ -7,7 +7,6 @@
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-4CAF50?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Server Software](https://img.shields.io/badge/Server-PaperMC%20%2F%20Purpur-2196F3?style=for-the-badge)
-![Pack Format](https://img.shields.io/badge/Pack%20Format-15-orange?style=for-the-badge)
 
 </div>
 
