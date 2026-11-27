@@ -32,7 +32,7 @@ Tanpa pack ini plugin tetap jalan, tapi Magplant tampil sebagai Lodestone vanill
 
 Download zip terbaru dari halaman **Releases** di repo ini:
 
-**[Magplant-ResourcePack.zip v1.3.0](https://github.com/aiqqqfdh/Magplant-Plugin/releases/download/v1.3.0/Magplant-ResourcePack.zip)**
+**[Magplant-ResourcePack.zip v1.3.1](https://github.com/aiqqqfdh/Magplant-Plugin/releases/download/v1.3.0/Magplant-ResourcePack.zip)**
 
 SHA1 (v1.3.1):
 
