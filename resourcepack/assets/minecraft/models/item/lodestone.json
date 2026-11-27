@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/lodestone"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "magplant:item/magplant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "magplant:item/magplant_advanced"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "magplant:item/magplant_ultimate"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Contoh untuk server.properties - Magplant Resource Pack v1.3.0
+# Salin baris di bawah ini ke server.properties, lalu restart server.
+resource-pack=https://github.com/aiqqqfdh/Magplant-Plugin/releases/download/v1.3.0/Magplant-ResourcePack.zip
+resource-pack-sha1=96a8572bd60020fc05fab20146317a15c1e7b3b1
+resource-pack-prompt=Magplant Resource Pack - wajib untuk tekstur Magplant
+require-resource-pack=true
